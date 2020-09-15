@@ -1,10 +1,10 @@
 name: ReplyChatBot
 main: laith98\ReplyChatBot\ReplyChatBot
 api: [3.0.0]
-author: laith98
+author: Laith98Dev
 version: 1.0.0
 description: ReplyChatBot Auto Bot for replyed messages. 
-website: https://github.com/laith98
+website: https://github.com/Laith98Dev
 
 commands:
    bot:
@@ -14,7 +14,7 @@ commands:
 permissions:
    bot:
       default: false
-      description: "ReplyChatBot Commands"
+      description: "ReplyChatBot Command"
       children:
           replybot.use:
               default: op
