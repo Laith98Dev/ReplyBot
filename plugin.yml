@@ -1,0 +1,21 @@
+name: ReplyChatBot
+main: laith98\ReplyChatBot\ReplyChatBot
+api: [3.0.0]
+author: laith98
+version: 1.0.0
+description: ReplyChatBot Auto Bot for replyed messages. 
+website: https://github.com/laith98
+
+commands:
+   bot:
+      description: AutoChatBot Commands
+      permission: replybot.use
+
+permissions:
+   bot:
+      default: false
+      description: "ReplyChatBot Commands"
+      children:
+          replybot.use:
+              default: op
+              description: "Allows player use all commands"
