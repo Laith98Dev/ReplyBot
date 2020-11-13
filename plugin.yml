@@ -3,19 +3,19 @@ main: laith98\ReplyChatBot\ReplyChatBot
 api: [3.0.0]
 author: Laith98Dev
 version: 1.0.0
-description: ReplyChatBot Auto Bot for replyed messages. 
+description: "Simple plugin to reply chat messages."
 website: https://github.com/Laith98Dev
 
 commands:
    bot:
-      description: AutoChatBot Commands
-      permission: replybot.use
+      description: "AutoChatBot Commands"
+      permission: "replybot.command.use"
 
 permissions:
    bot:
       default: false
       description: "ReplyChatBot Command"
       children:
-          replybot.use:
+          replybot.command.use:
               default: op
               description: "Allows player use all commands"
