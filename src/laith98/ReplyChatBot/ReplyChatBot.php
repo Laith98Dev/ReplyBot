@@ -97,7 +97,7 @@ class ReplyChatBot extends PluginBase
 					$sender->sendMessage(TF::YELLOW . "Sucessfully add '" . $args[1] . "'!");
 					return true;
 				}
-				$sender->sendMessage(TF::RED . "Cannot add '" . $args[1] . "',Alredy exists!");
+				$sender->sendMessage(TF::RED . "Cannot add '" . $args[1] . "', alredy exists!");
 				return true;
 			}
 			
