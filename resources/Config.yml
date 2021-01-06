@@ -1,0 +1,23 @@
+---
+
+# plugin created by laithyoutuber, Discord: @Laith.97#8167.
+
+# here you can set plugin settings.
+
+# config version.
+config_version: 1.0.0
+
+# plugin prefix ex: ReplyBot > hi :).
+Prefix: "ReplyBot"
+
+# here you can set how to send the message // replaces: {PLAYER} = player name | {PREFIX} = plugin prefix | {MESSAGE} = the message.
+# ex: {PREFIX} > @{PLAYER}, {MESSAGE} // ReplyBot > hi :)
+Reply.Message: "{PREFIX} > {MESSAGE}"
+
+# plugin enable for turn on the plugin else trun off, enable: on, disabled: off.
+plugin_enable: "on"
+
+# timer to send Message / 1 = 1s.
+sendMessage.time: 4
+
+...
