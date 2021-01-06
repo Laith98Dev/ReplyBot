@@ -13,4 +13,4 @@ Simple auto reply chat bot for pocketmine servers.
 | --- | --- | --- | --- |
 | `/bot` | ReplyChatBot Command | `replybot.command.use` | false |
 
-- If you found a bugs DM Me Laith.97#8167 via Discord.
+- If you found a bugs DM Me Laith.97#0001 via Discord.
