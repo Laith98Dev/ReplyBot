@@ -17,7 +17,7 @@ namespace laith98\ReplyChatBot;
  *		
  *	Youtube: Laith Youtuber
  *	Facebook: Laith A Al Haddad
- *	Discord: Laith.97#8167
+ *	Discord: Laith.97#0001
  *	Gihhub: Laith98Dev
  *
  *	This program is free software: you can redistribute it and/or modify
