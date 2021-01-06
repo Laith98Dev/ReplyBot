@@ -7,6 +7,9 @@ Simple auto reply chat bot for pocketmine servers.
 - Supports uppercase and lowercase letters...
 - Simple configuration.
 
+# Tutorial
+[Click here](https://youtu.be/_zRRQiQyvUw)
+
 # Commands & Permissions
 
 | Command | Description | Permission | Default |
